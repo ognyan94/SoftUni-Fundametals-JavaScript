@@ -1,0 +1,4 @@
+function magicMatrices(arr) {
+
+}
+magicMatrices()
